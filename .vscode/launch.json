@@ -8,7 +8,7 @@
             "name": "dotnet debug",
             "type": "coreclr",
             "request" : "launch",
-            "program": "${workspaceFolder}/YOURPATH/to/YOUR.dll",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/codeplace-dotnet-boilerplate.dll",
             "args" : [],
             "stopAtEntry": false
         }
